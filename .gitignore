@@ -1,3 +1,2 @@
-_G.UserID = 1136436754
-_G.WebHook = "https://discord.com/api/webhooks/1022912036885233725/Tm-SQS2_4fYu2XWgubh87IssonW2CddqeMK_tZx4_Tf4Nmh0O3olHECYRPlIbt2ipBi_"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))()
+_G.License = "b2d73721d1d705da734b"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
